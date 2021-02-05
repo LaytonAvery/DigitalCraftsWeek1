@@ -1,0 +1,4 @@
+friends = [Ernest, Vonta, Carlisa, Cartisha, Allison]
+
+for friends in range (0,6):
+    
